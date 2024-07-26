@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Alfrendo Silalahi, a dedicated Back-End Engineer passionate about building robust and scalable applications. With expertise in Java, Spring Boot, and other modern backend technologies, I aim to deliver high-quality software solutions.
+I am Alfrendo Silalahi, a dedicated Software Engineer passionate about building robust and scalable applications. With expertise in Java, Spring Boot, and other modern backend technologies, I aim to deliver high-quality software solutions.
 
 ### 🔧 Tools & Technologies
 
