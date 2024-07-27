@@ -1,4 +1,4 @@
-ini### Hi there 👋
+### Hi there 👋
 
 I am Alfrendo Silalahi, a dedicated Software Engineer passionate about building robust and scalable applications. With expertise in Java, Spring Boot, and other modern technologies, I aim to deliver high-quality software solutions.
 
